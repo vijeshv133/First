@@ -8,5 +8,6 @@ do
 }
 while
  (b<10);
+ {System.out.printlm("hello");
 }
 }
